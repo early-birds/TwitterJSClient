@@ -8,3 +8,4 @@ Makefile
 twitter.txt
 *.iml
 *.ipr
+node_modules

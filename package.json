@@ -1,11 +1,18 @@
 {
-    "name":"twitter-js-client",
-    "description":"Twitter JS Client",
-    "version":"0.0.1",
-    "private":true,
-    "directories" : { "lib": "./lib" },
-    "dependencies":{
-        "qs": "*",
-        "oauth": "*"
-    }
+	"name": "twitter-node-sdk",
+	"version": "v0.0.2",
+	"description": "Twitter API client library for node.js",
+	"keywords": ["twitter","rest","oauth","api","node"],
+	"homepage": "https://github.com/tmsw/TwitterJSClient",
+	"author": "harscoet",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/tmsw/TwitterJSClient"
+	},
+	"dependencies": { 
+		"qs": "*",
+		"oauth": "*"
+	},
+	"engines": ["node >=0.2.0"],
+	"main": "./lib/twitter"
 }
