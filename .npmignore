@@ -9,3 +9,4 @@ twitter.txt
 *.iml
 *.ipr
 node_modules
+npm-debug.log
