@@ -1,6 +1,6 @@
 {
   "name": "twitter-node-sdk",
-  "version": "v0.0.3",
+  "version": "v0.0.4",
   "description": "Twitter API client library for node.js",
   "keywords": ["twitter","rest","oauth","api","node"],
   "homepage": "https://github.com/tmsw/TwitterJSClient",
